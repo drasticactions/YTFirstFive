@@ -6,6 +6,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <IsAotCompatible>True</IsAotCompatible>
+        <SelfContained>true</SelfContained>
+        <PublishAot>true</PublishAot>
     </PropertyGroup>
 
     <ItemGroup>
